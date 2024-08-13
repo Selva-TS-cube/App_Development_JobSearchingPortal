@@ -1,0 +1,132 @@
+.footer {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background: #1b1f23;
+}
+
+.footer-container {
+  max-width: 1024px;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  margin: 0 auto;
+}
+
+.footer-heading {
+  font-weight: 600;
+  text-align: center;
+  color: #ffffff;
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+
+.footer-subheading {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  text-align: center;
+  color: #ffffff;
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+.footer-button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.footer-button {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  border-radius: 9999px;
+  font-weight: 700;
+  color: #ffffff;
+  background-color: #ff5a00;
+  transition: background-color 300ms cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
+}
+
+.footer-section {
+  display: flex;
+  padding-top: 4rem;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-between;
+}
+
+.footer-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-contact-title {
+  margin-top: 7rem;
+  font-size: 2rem;
+  line-height: 1.75rem;
+  color: #ffffff;
+}
+
+.footer-contact-number {
+  color: #ffffff;
+  font-size: 19px;
+  margin-top: -2.7rem;
+  margin-bottom: 10px;
+  font-weight: 100;
+}
+
+.footer-contact-address {
+  margin-top: 1rem;
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  color: #ffffff;
+  font-weight: 100;
+}
+
+.footer-title {
+  padding-bottom: 1.5rem;
+  font-size: 1.5rem;
+  color: #ffffff;
+  margin-bottom: 0;
+}
+
+.footer-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
+.footer-link {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.footer-bottom {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  margin-top: 3rem;
+  text-align: center;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.footer-copy {
+  color: #ffffff;
+}
+
+.footer-icons {
+  display: flex;
+  margin-top: 1rem;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.footer-icon {
+  color: #ffffff;
+  transition: color 300ms cubic-bezier(0.4, 0, 0.2, 1);
+}
